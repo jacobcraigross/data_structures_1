@@ -1,7 +1,7 @@
 # most frequently occurring item in an Array
 
 def most_frequent(given_list):
-    max_count = 1
+    max_count = 0
     max_item = None
     count = {}
     for i in given_list:
